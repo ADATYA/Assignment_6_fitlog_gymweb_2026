@@ -47,4 +47,5 @@ lib/api.js      API client with primary + alternative endpoint
 
 ## Deployment
 
-Import the repo into Vercel (framework preset: Next.js). No environment variables are needed. Next.js handles refreshes on every route, so reloading any page works after deploy.
+Live demo : https://peppy-jelly-b88081.netlify.app/
+
